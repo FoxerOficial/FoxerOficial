@@ -2,7 +2,7 @@
 
 <div align="center">
   <div class="about-title"> <span style="color:#ffae00;">Foxer (or Juan, whatever is up to you)</span> — Mechatronics Dreamer</div>
-  <div style="font-size:1.2em; color:#aaa;">Turning imagination into <span class="highlight">technology</span></div>
+  <div style="font-size:1.2em; color:#aaa;">Turning <span class="highlight">projects</span></div> into ifk.
 </div>
 
 ---
