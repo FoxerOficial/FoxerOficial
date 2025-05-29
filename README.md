@@ -1,13 +1,13 @@
 
 
 <div align="center">
-  <div class="about-title">🚀 <span style="color:#ffae00;">JUAN</span> — Mechatronics Dreamer</div>
+  <div class="about-title"> <span style="color:#ffae00;">Foxer (or Juan, whatever is up to you)</span> — Mechatronics Dreamer</div>
   <div style="font-size:1.2em; color:#aaa;">Turning imagination into <span class="highlight">technology</span></div>
 </div>
 
 ---
 
-<div class="section-header">🔑 Key Skills</div>
+<div class="section-header"> Key Skills</div>
 
 - <span class="emoji">🐍</span> <b>Python</b> & <b>Django</b> for web apps and creative automation
 - <span class="emoji">🤖</span> Exploring <b>robotics</b> & <b>mechatronic systems</b>
@@ -16,7 +16,7 @@
 
 ---
 
-<div class="section-header">🎯 Current Focus</div>
+<div class="section-header"> Current Focus</div>
 <ul>
   <li>Deepening my programming & robotics knowledge for Mechatronics Engineering at <b>UAO</b></li>
   <li>Experimenting with new tools and building small robots & automations</li>
@@ -24,7 +24,7 @@
 
 ---
 
-<div class="section-header">🎮 <span style="color:#00ffe7;">Games & Simulations I Love</span></div>
+<div class="section-header"> <span style="color:#00ffe7;">Games & Simulations I Love</span></div>
 <div class="games-list">
   <span class="emoji">🕹️</span>
   <b>Valve Games:</b> TF2, Half-Life, Half-Life 2, Portal 1 & 2 <br>
@@ -38,7 +38,7 @@
 
 ---
 
-<div class="section-header">🤩 Fun Facts & Hobbies</div>
+<div class="section-header"> Fun Facts & Hobbies</div>
 
 - <span class="car-emoji">🚗💨</span> <b>Obsessed with cars</b> — design, mechanics, racing, and the future of mobility!
 - <span class="emoji">🧩</span> Constantly exploring new programming tools and applying them to <b>innovative projects</b>
