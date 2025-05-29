@@ -18,7 +18,7 @@
 
 <div class="section-header"> Current Focus</div>
 <ul>
-  <li>Deepening my programming & robotics knowledge for Mechatronics Engineering at <b>UAO</b></li>
+  <li>Deepening my programming & robotics knowledge for Mechatronics Engineering at <b>UAO</b></li> (Cali, Colombia)
   <li>Experimenting with new tools and building small robots & automations</li>
 </ul>
 
