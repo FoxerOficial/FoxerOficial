@@ -1,55 +1,47 @@
 
-
 <div align="center">
-  <h1 style="color:#ffae00; font-size:2.5em; font-weight:bold;">Foxer (or Juan) — Mechatronics</h1>
-  <h2 style="font-size:1.5em; color:#aaa; font-weight:normal;">
+  <h1 style="color:#ffae00; font-size:3em; font-weight:bold; text-shadow: 2px 2px 5px rgba(0,0,0,0.3);">
+    Foxer (or Juan) — Mechatronics
+  </h1>
+  <p style="font-size:1.4em; color:#aaa; font-weight:normal; max-width:600px;">
     Turning <span style="color:#ffae00; font-weight:bold;">projects</span> into something. Probably.
-  </h2>
+  </p>
 </div>
 
+<hr style="border: 1px solid #444; margin: 2em 0;">
 
----
-
-<div class="section-header"> Key Skills</div>
-
-- <span class="emoji">🐍</span> <b>Python</b> & <b>Django</b> for web apps and creative automation
-- <span class="emoji">🤖</span> Exploring <b>robotics</b> & <b>mechatronic systems</b>
-- <span class="emoji">🛠️</span> <b>Problem solver</b> & project builder
-- <span class="emoji">🚗</span> <b>Car design</b> fan — from mechanics to futuristic ideas
-
----
-
-<div class="section-header"> Current Focus</div>
-<ul>
-  <li>Deepening my programming & robotics knowledge for Mechatronics Engineering at <b>UAO</b></li> (Cali, Colombia)
-  <li>Experimenting with new tools and building small robots & automations</li>
+<h2 style="color:#ffae00; border-bottom: 2px solid #00ffe7; padding-bottom:5px;">Key Skills</h2>
+<ul style="list-style:none; padding:0; font-size:1.2em;">
+  <li><b>Python & Django:</b> Web apps and creative automation</li>
+  <li><b>Robotics & Mechatronics:</b> Messing around with hardware like I know what I'm doing (of course i dont)</li>
+  <li><b>Problem Solving:</b> Throwing ideas at the wall until something sticks</li>
+  <li><b>Car Design:</b> Because cars are cool and I have taste (maybe)</li>
 </ul>
 
----
+<h2 style="color:#ffae00; border-bottom: 2px solid #00ffe7; padding-bottom:5px;">Current Focus</h2>
+<ul style="list-style:none; padding:0; font-size:1.2em;">
+  <li>Waiting to get into programming & robotics at <b>UAO (Autonomous University of West)</b> (Cali, Colombia) (at july)</li>
+  <li>Experimenting with new tools and building small robots & automations, probably making some mistakes along the way</li>
+</ul>
 
-<div class="section-header"> <span style="color:#00ffe7;">Games & Simulations I Love</span></div>
-<div class="games-list">
-  <span class="emoji">🕹️</span>
-  <b>Valve Games:</b> TF2, Half-Life, Half-Life 2, Portal 1 & 2 (I NEED HL3/X)<br>
-  <span class="emoji">🏁</span>
-  <b>Need for Speed</b> (wanting to reckless drive in real life too (i wont)) <br>
-  <span class="emoji">🛻</span>
-  <b>BeamNG.drive</b> — for realistic car physics (and crashing like a drunk driver)<br>
-  <span class="emoji">✈️</span>
-  <b>Flight Simulators</b> — you know, everyone loves planes
-</div>
+<h2 style="color:#ffae00; border-bottom: 2px solid #00ffe7; padding-bottom:5px;">Games & Simulations I Love</h2>
+<ul style="list-style:none; padding:0; font-size:1.2em;">
+  <li><b>Valve Games:</b> TF2, Half-Life series, Portal (WHERE IS HL3???!!)</li>
+  <li><b>Need for Speed:</b> Letting the intrusive thoughts win ( I won't in real life, I swear (actually no))</li>
+  <li><b>BeamNG.drive:</b> questionable ethics</li>
+  <li><b>Flight Simulators:</b> I could totally land a plane, just, not in one piece</li>
+</ul>
 
----
-
-<div class="section-header"> Fun Facts & Hobbies</div>
-
-- <span class="car-emoji">🚗💨</span> <b>Obsessed with cars</b> — design, mechanics, racing, name it.
-- <span class="emoji">🧩</span> constantly exploring new programming tools and applying them to <b>innovative projects</b>
-- <span class="emoji">🛸</span> always learning about <b>autonomous systems</b> & <b>automation</b> and tons of other things
-- <span class="emoji">🥽</span> Dream: build my own very succeful bussiness (and stay as a CEO)
-
----
+<h2 style="color:#ffae00; border-bottom: 2px solid #00ffe7; padding-bottom:5px;">Fun Facts & Hobbies</h2>
+<ul style="list-style:none; padding:0; font-size:1.2em;">
+  <li><b>Obsessed with cars:</b> Design, mechanics, racing—give me all of it.</li>
+  <li><b>Tech tinkerer:</b> Always trying new programming tools, sometimes breaking things.</li>
+  <li><b>Autonomous systems:</b> Slowly teaching robots to do my bidding.</li>
+  <li><b>Dream:</b> Build a successful business and stay as CEO forever.</li>
+</ul>
 
 <div align="center" style="margin:2em 0;">
-  <span style="font-size:1.7em; color:#00ffe7; font-weight:bold; border-bottom:2px dashed #ffae00;">Text me if you need anything</span>
+  <p style="font-size:1.8em; color:#00ffe7; font-weight:bold; border-bottom:2px dashed #ffae00;">
+    Text me if you need anything. Or if you just want to chitchat.
+  </p>
 </div>
