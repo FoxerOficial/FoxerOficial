@@ -29,7 +29,7 @@
 - **Rockstar Games:** RDR1/2, all Grand Thefts, Midnight Club 1/2/3/LA (Rockstar, please, just one more MC)
 - **Watch_Dogs 2:** when ubisoft was based
 - **Burnout Games:** I really think there isn't any need of explaining this
-- **I also don't play these games anymore, but they're worth mentioning:** Ultrakill, FNaF, Undertale. 
+- **Also, I don't play these games anymore, but they're worth mentioning:** Ultrakill, FNaF, Undertale. 
 
 ---
 
