@@ -8,7 +8,8 @@
 - **Python & Django** – Web apps and creative automation  
 - **Robotics & Mechatronics** – Messing around with hardware like I know what I'm doing (I don't)  
 - **Problem Solving** – Throwing ideas at the wall until something sticks  
-- **Car Design** – Because cars are cool and I have taste (maybe)  
+- **Car Design** – Because cars are cool and I have taste (maybe)
+- **Drawing** - I LOVE DRAWING, but... am I good at it? meh, depends
 
 ---
 
