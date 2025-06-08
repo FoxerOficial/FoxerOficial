@@ -1,9 +1,12 @@
 
 
 <div align="center">
-  <div class="about-title"> <span style="color:#ffae00;">Foxer (or Juan, whatever is up to you)</span> — Mechatronics</div>
-  <div style="font-size:1.2em; color:#aaa;">Turning <span class="highlight">projects</span> into something. Probably.
+  <h1 style="color:#ffae00; font-size:2.5em; font-weight:bold;">Foxer (or Juan) — Mechatronics</h1>
+  <h2 style="font-size:1.5em; color:#aaa; font-weight:normal;">
+    Turning <span style="color:#ffae00; font-weight:bold;">projects</span> into something. Probably.
+  </h2>
 </div>
+
 
 ---
 
