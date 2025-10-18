@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 Current Focus  
-- Waiting to get into programming & robotics at **UAO (Autonomous University of West)** (Cali, Colombia) (in July)  
+- Studying Mechatronics Engeenering at **UAO (Autonomous University of West) (Colombia, Valle del Cauca).** 
 - Experimenting with new tools and building small robots & automations, probably making some mistakes along the way  
 
 ---
